@@ -27,6 +27,7 @@
 **【 行旅之境 - Realm of Journeys 】旅遊電商網** <br />
 * [GitHub Repo](https://github.com/kayaribi/Realm_of_Journeys)<br />
 * [GitHub Pages](https://kayaribi.github.io/Realm_of_Journeys/#/)<br /><br />
+* [GitHub Pages 後台管理頁面](https://kayaribi.github.io/Realm_of_Journeys/#/admin)<br /><br />
 
 
 **【 JO團趣 】預約系統** <br />
